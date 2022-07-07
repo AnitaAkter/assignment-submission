@@ -1,0 +1,210 @@
+body {
+    font-family: 'Lobster', cursive;
+    margin: 0;
+}
+
+.first-banner {
+    background-image: url(images/donation13.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 100px;
+    height: 50%;
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+.first-banner h1 {
+    font-size: 50px;
+    font-weight: 500;
+    color: rgb(248, 236, 236);
+}
+
+.first-banner p {
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    padding: 10px 20%;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 500;
+    color: rgb(26, 25, 25);
+
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+
+.link-btn {
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(207, 44, 44);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+
+.full-details-banner {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(247, 243, 244);
+}
+
+.second-part {
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.banner-items {
+    color: rgb(92, 88, 87);
+}
+
+.fixed-amount {
+    color: rgb(70, 69, 68);
+
+}
+
+.fixed-amount li {
+    display: inline-block;
+    padding: 25px 25px;
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.default {
+    color: rgb(207, 44, 42);
+    border: 3px solid brown;
+    background-color: rgb(247, 185, 169);
+
+}
+
+.option {
+    border: 2px solid black;
+}
+
+.flexible-amount {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 100%
+}
+
+.second-part input {
+    text-align: center;
+}
+
+.third-part {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.third-part-items-details {
+    display: flex;
+
+}
+
+.item-details {
+    height: 60%;
+    width: 33%;
+    margin: 10px 10px 30px 10px;
+    box-shadow: 10px 10px 30px rgb(255, 255, 255);
+    padding: 30px 20px 20px 20px;
+}
+
+.item-details h3 {
+    background-color: brown;
+    padding: 5px;
+}
+
+#first {
+    background-color: rgb(200, 232, 245);
+}
+
+#second {
+    background-color: rgb(241, 190, 171);
+}
+
+#third {
+    background-color: rgb(252, 252, 191);
+}
+
+.fourth-part {
+    display: flex;
+    margin: 40px 10px 40px 10px;
+
+}
+
+.fouth-part-items {
+    justify-content: center;
+
+}
+
+.fouth-part-items p {
+    margin-top: -20px;
+}
+
+.fifth-part {
+    display: flex;
+    margin: 60px 10px 40px 10px;
+
+}
+
+.fifth-part-items {
+    justify-content: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    /* padding-left: 30px; */
+
+}
+
+.fifth-part-items p {
+    margin-top: -20px;
+}
+
+.sixth-part {
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.input-email {
+    margin-top: 10px;
+    margin-bottom: 70px;
+    padding: 20px 10px 20px 10px;
+    background-color: rgb(196, 167, 125);
+
+}
+
+.type {
+    border: 0;
+    padding: 12px 17px;
+    border: none;
+}
+
+.f-details {
+    background-color: rgb(6, 6, 20);
+    color: aliceblue;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.f-details p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(206, 53, 53);
+    font-weight: 500;
+}
